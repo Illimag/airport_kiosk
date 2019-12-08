@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/airport_kiosk/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/airport_kiosk/static/js/main.f59e6090.chunk.js",
+    "main.js.map": "/airport_kiosk/static/js/main.f59e6090.chunk.js.map",
+    "runtime-main.js": "/airport_kiosk/static/js/runtime-main.7b463ca9.js",
+    "runtime-main.js.map": "/airport_kiosk/static/js/runtime-main.7b463ca9.js.map",
+    "static/js/2.69b76237.chunk.js": "/airport_kiosk/static/js/2.69b76237.chunk.js",
+    "static/js/2.69b76237.chunk.js.map": "/airport_kiosk/static/js/2.69b76237.chunk.js.map",
+    "index.html": "/airport_kiosk/index.html",
+    "precache-manifest.1451c5c9b85d8bca959f5032b1715497.js": "/airport_kiosk/precache-manifest.1451c5c9b85d8bca959f5032b1715497.js",
+    "service-worker.js": "/airport_kiosk/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/airport_kiosk/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.69b76237.chunk.js.LICENSE": "/airport_kiosk/static/js/2.69b76237.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b463ca9.js",
+    "static/js/2.69b76237.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.f59e6090.chunk.js"
+  ]
+}
